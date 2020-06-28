@@ -28,7 +28,7 @@ SECRET_KEY = 'n#vm(*e_cpl2%i0b%v1m2sguj5mmaeyvcl7*ue=6erzvg(k290'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['shawon-blog.herokuapp.com','127.0.0.1']
 
 
 # Application definition
